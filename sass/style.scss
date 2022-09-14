@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
-$bg: #1f252b;
+$bg: #1d1e26;
 $dark: #403833;
+$dark-text: #aaa;
 $fg: #eee;
 $urgent: #ff4a30;
 $urgent-weak: #ea5943;
@@ -23,6 +24,7 @@ header {
 }
 p {
     font-family: "Roboto", 'Helvetica',;
+    color: $dark-text;
 }
 * {
     margin: 0rem;
