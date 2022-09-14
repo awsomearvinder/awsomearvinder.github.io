@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>avinderd</title>
+    <link rel = "stylesheet" href = "{{get_url(path='style.css')}}">
+</head>
+
+<body>
+    <header>
+        <h1> <a href = "{{get_url(path="")}}"> I'm Probably Not Asleep </a></h1>
+        <h3> <a href = "{{get_url(path="projects")}}"> Projects </a></h3>
+        <h3> <a href = "{{get_url(path="blog")}}"> Blog </a></h3>
+    </header>
+    <div class="content">
+        {% block content %} {% endblock %}
+    </div>
+    <div id="spacer"></div>
+    <hr class = "below-footer">
+    <footer>
+        <a href = "mailto:ArvinderDhan@gmail.com"><img src = "{{get_url(path='mail.svg')}}"/></a>
+        <a href = "https://discord.gg/zZ2myPhES3"><img src = "{{get_url(path='discord.svg')}}"/></a>
+    </footer>
+</body>
+
+</html>
