@@ -3,7 +3,7 @@ title = "My Projects"
 description = "Projects I've worked on."
 template = "project.html"
 +++
-## [pcparadisebot:](https://github.com/pcparadise)
+## [pcparadisebot:](https://github.com/pcparadise/discordbot)
 pcparadisebot is a discord bot currently being developed for a large
 discord server I'm a member of. Built on top of python and poetry,
 and using pylint / black in it's CI/CD. It's probably one of the best
