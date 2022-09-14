@@ -73,3 +73,13 @@ a {
 a:hover {
     background-color: $urgent-weak;
 }
+@media screen and (max-device-width: 700px) {
+    header {
+        h1 {
+            display: none;
+        }
+        h3 {
+            margin: 0rem 1rem 0rem 0rem;
+        }
+    }
+}
