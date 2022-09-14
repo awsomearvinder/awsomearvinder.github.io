@@ -89,3 +89,14 @@ a:hover {
         }
     }
 }
+@media screen and (min-device-width: 2560px) {
+    body {
+        margin: auto;
+    }
+    header {
+        width: 100%;
+        h3 {
+            margin: 0rem 1rem 0rem 0rem;
+        }
+    }
+}
