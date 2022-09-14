@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 $bg: #1d1e26;
@@ -92,6 +92,7 @@ a:hover {
         }
         .home {
             display: inline;
+            font-weight: bold;
         }
     }
 }
