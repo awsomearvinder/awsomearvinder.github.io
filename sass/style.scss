@@ -2,39 +2,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 $bg: #1f252b;
-//$bg: #282828;
 $dark: #403833;
 $fg: #eee;
 $urgent: #ff4a30;
 $urgent-weak: #ea5943;
+
 header {
     h1 {
         width: 100%;
+        font-size: 1.5rem;
     }
     h3 {
+        font-size: 1rem;
         margin: 0rem 0rem 0rem 1rem;
     }
     flex-direction: row;
     align-items: end;
     display: flex;
-    margin: 1rem 0rem;
+    margin: 2.25rem 0rem;
 }
 p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Roboto", 'Helvetica',;
 }
 * {
     margin: 0rem;
     color: $fg;
     font-family: 'Roboto Mono', monospace;
 }
-.content h3 {
-    margin: 0.5rem 0rem;
-}
+
 .content {
     margin: 2rem 0rem;
-}
-.content * {
-    margin: 1rem 0rem;
+    p {
+        margin: 1rem 0rem 2.5rem 0rem;
+    }
 }
 footer {
     display: flex;
