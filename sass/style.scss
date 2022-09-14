@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 $bg: #1f252b;
 //$bg: #282828;
 $dark: #403833;
@@ -17,12 +20,12 @@ header {
     margin: 1rem 0rem;
 }
 p {
-    font-family: Roboto;
+    font-family: 'Open Sans', sans-serif;
 }
 * {
     margin: 0rem;
     color: $fg;
-    font-family: 'noto sans';
+    font-family: 'Roboto Mono', monospace;
 }
 .content h3 {
     margin: 0.5rem 0rem;
