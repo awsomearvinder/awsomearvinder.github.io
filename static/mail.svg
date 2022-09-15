@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 340 340" style="enable-background:new 0 0 340 340;" xml:space="preserve">
-<g id="XMLID_86_">
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
 	<g>
-		<path fill="#FFF" d="M0,42.5v255h340v-255H0z M303.986,62.5l-116.037,96.968l-17.949,15l-17.949-15L36.014,62.5H303.986z M20,75.181
-			L136.456,172.5L20,269.819V75.181z M41.997,277.5l110.054-91.968l17.949,15l17.949-15L298.002,277.5H41.997z M320,269.819
-			L203.544,172.5L320,75.181V269.819z"/>
+		<path fill="white" d="M496.327,127.091l-15.673,9.613L281.83,258.623c-7.983,4.859-16.917,7.293-25.84,7.293s-17.826-2.424-25.778-7.262
+			l-0.136-0.084L31.347,134.771l-15.673-9.759L0,115.242v302.717h512V117.488L496.327,127.091z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="white" d="M25.245,94.041l25.161,15.673l25.161,15.673l171.008,106.527c5.841,3.521,13.082,3.511,18.913-0.042l173.652-106.486
+			l25.558-15.673l25.558-15.673H25.245z"/>
 	</g>
 </g>
 <g>
