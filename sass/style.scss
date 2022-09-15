@@ -1,12 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap&text=latin');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap&text=latin');
-
 $bg: #1d1e26;
 $dark: #403833;
 $dark-text: #aaa;
 $fg: #eee;
 $urgent: #ff4a30;
 $urgent-weak: #ea5943;
+
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(roboto-mono-400.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(roboto-mono-700.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(open-sans-400.woff2) format('woff2');
+}
+
 
 header {
     h1 {
