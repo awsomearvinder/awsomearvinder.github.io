@@ -21,7 +21,7 @@ Chip8 was meant to be a monorepo with a parser, decompiler, and an interpreter
 that emulated a chip8 VM. In the end the interpreter was never finished, however
 the byte code was succesfully parsed. The only big limitation was due
 to my poor understanding of the vm byte code, I didn't properly display random
-bytes, as chip8 didn't have a seperate .data section akin to modern ISAs.
+bytes, as chip8 didn't have a seperate .data section akin to modern executables.
 So data was just spread out along the "executable".
 ## [This Website:](https://github.com/awsomearvinder/personal_site)
 This website was thrown together using a static site generataor called 
